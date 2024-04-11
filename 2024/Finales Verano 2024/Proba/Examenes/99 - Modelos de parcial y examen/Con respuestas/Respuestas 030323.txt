@@ -1,0 +1,29 @@
+Ejercicio 1:
+
+a) n= 114.96 ; Nivel de significación = 0.05385
+
+b) 0.78939
+
+c) Gráfica de la curva e interpretación de algún riesgo
+
+d) p-valor = 0.03841 . Decisión : Hay evidencia para rechazar H0. Decimos que la resistencia media de las reposeras es menor que 120 Kg. No se compran.
+
+ 
+
+Ejercicio 2:
+
+a) NC = 96.9%
+
+b) 18.57
+
+c) PC = 0.5768 . P-valor = 0.19024. No Hay evidencia para rechazar H0 . Decimos que el municipio tiene razón.
+
+ 
+
+Ejercicio 3:
+
+a) 630 m2
+
+b) 0.4167
+
+c) 0.51142

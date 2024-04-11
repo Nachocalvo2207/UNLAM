@@ -1,0 +1,37 @@
+Les paso algunos resultados del modelo con fecha del 171122, así pueden chequear con lo que van resolviendo.
+
+ 
+
+Ejercicio 1
+
+1-a):	Punto crítico = 13.554  ; n = 23.445 ≈ 14 
+
+b) 0.0015
+
+c) p-valor = 0.16642 (No hay evidencia para rechazar H0 – Le damos la razón al director)
+
+ 
+
+Ejercicio 2
+
+a) 0.3689
+
+b) 0.5556
+
+ 
+
+Ejercicio 3
+
+a) IC para µX (NC 97 %)  [ 51.918 ; 60.832 ] ; IC para σX (NC 97 %)  [ 5.328 ; 12.116 ]  (Recuerden que todo IC va acompañado por su correspondiente informe)
+
+b) 51.358
+
+c) Se tomarían 38 valores más de montos de alquiler
+
+ 
+
+Ejercicio 4
+
+a) Estimación puntual (Ppico obs = 0.5467) ; IC para p (NC 93 %)  [ 0.4730 ; 0.6203 ]  (Recuerden que todo IC va acompañado por su correspondiente informe)
+
+b) No hay evidencia para decir que más del 50% de las personas le agrega sal a las comidas en ambos momentos.
