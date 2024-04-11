@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1685310564 source:c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\ejercicios\ejercicios\ejercicio1connico\ejercicio8\ejercicio8.c
+	<stdio.h>
+	"ejercicio8.h"
+
+1685310410 c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\ejercicios\ejercicios\ejercicio1connico\ejercicio8\ejercicio8.h
+	<stdio.h>
+
+1685310615 source:c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\ejercicios\ejercicios\ejercicio1connico\ejercicio8\main.c
+	<stdio.h>
+	<stdlib.h>
+

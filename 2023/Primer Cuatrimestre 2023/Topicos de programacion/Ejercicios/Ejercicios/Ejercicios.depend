@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1680563041 source:c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\ejercicios\ejercicios\funciones.c
+	<stdio.h>
+	"funciones.h"
+
+1680562697 c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\ejercicios\ejercicios\funciones.h
+
+1680566317 source:c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\ejercicios\ejercicios\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"matematicas.h"
+
+1680566312 c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\ejercicios\ejercicios\matematicas.h
+
+1680566312 source:c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\ejercicios\ejercicios\matematicas.c
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685324409 source:c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\practica de teoria\arraysypunteros\arraysypunteros.c
+	"arraysYpunteros.h"
+
+1685324409 c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\practica de teoria\arraysypunteros\arraysypunteros.h
+	<stdio.h>
+
+1685323660 source:c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\practica de teoria\arraysypunteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arraysYpunteros.h"
+

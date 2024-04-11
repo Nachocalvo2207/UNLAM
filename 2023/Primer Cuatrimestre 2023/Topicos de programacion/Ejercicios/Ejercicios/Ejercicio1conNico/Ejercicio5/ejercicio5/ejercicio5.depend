@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1685308692 source:c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\ejercicios\ejercicios\ejercicio1connico\ejercicio5\ejercicio5\fibonacci.c
+	"fibonacci.h"
+
+1685305661 c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\ejercicios\ejercicios\ejercicio1connico\ejercicio5\ejercicio5\fibonacci.h
+	<stdio.h>
+	<stdlib.h>
+	"fibonacci.h"
+
+1685305690 source:c:\users\ic255009\onedrive - teradata\escritorio\nacho\unlam\primer cuatrimestre 2023\topicos de programacion\ejercicios\ejercicios\ejercicio1connico\ejercicio5\ejercicio5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fibonacci.h"
+
